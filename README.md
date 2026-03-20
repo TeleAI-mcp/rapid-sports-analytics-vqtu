@@ -1,2 +1,3 @@
-# rapid-sports-analytics-vqtu
-Automated issue comment bot repository
+# Rapid Sports Analytics Vqtu
+
+Automated issue comment bot repository.
